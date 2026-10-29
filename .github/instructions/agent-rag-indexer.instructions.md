@@ -1,3 +1,8 @@
+---
+description: 'Indexar todos los documentos de `knowledge/` en Azure AI Search. Automático.'
+applyTo: '**/rag-indexer-specialist.agent.md'
+---
+
 **RAG Reference:** [Retrieval-augmented Generation (RAG) in Azure AI Search - Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview?tabs=videos)
 
 

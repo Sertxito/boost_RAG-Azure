@@ -2,7 +2,6 @@
 name: 'RAG: Cost Scaler'
 description: 'Gestiona dinámicamente los costes de infraestructura RAG en Azure post-despliegue — escala entre tiers mínimo/estándar/premium con cero downtime y alertas automáticas de presupuesto.'
 model: 'claude-haiku-4.5'
-tools: true
 skills: ['rag-cost-scaler']
 depends_on: ['rag-azure-setup']
 ---

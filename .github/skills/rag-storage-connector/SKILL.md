@@ -1,3 +1,8 @@
+---
+name: rag-storage-connector
+description: 'RAG Storage Connector — Integración Azure Blob'
+---
+
 # RAG Storage Connector — Integración Azure Blob
 
 **Helper basado en PowerShell para credenciales de Azure Blob Storage.**

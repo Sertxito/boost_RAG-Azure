@@ -1,3 +1,8 @@
+---
+name: rag-api-server
+description: 'RAG API Server — Interfaz REST'
+---
+
 # RAG API Server — Interfaz REST
 
 **Expone RAG como API REST para aplicaciones externas.**

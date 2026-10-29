@@ -1,3 +1,8 @@
+---
+description: 'Asistente de onboarding completamente automatizado para nuevos usuarios. Configurar → Desplegar → Indexar → Listo.'
+applyTo: '**/rag-onboarding.agent.md'
+---
+
 **RAG Reference:** [Retrieval-augmented Generation (RAG) in Azure AI Search - Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview?tabs=videos)
 
 

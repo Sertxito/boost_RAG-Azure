@@ -1,0 +1,29 @@
+{
+  "name": "boost-rag-azure",
+  "version": "0.1.0",
+  "description": "RAG Azure Boost: agents, skills, prompts and instructions for RAG on Azure AI Search, self-installable for GitHub Copilot / VS Code.",
+  "type": "module",
+  "boostPrefix": "rag",
+  "files": [
+    ".github/agents",
+    ".github/skills",
+    ".github/prompts",
+    ".github/instructions",
+    "scripts/install.mjs",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "boost:install": "node scripts/install.mjs",
+    "boost:check": "node scripts/install.mjs --check"
+  },
+  "keywords": ["boost", "rag", "azure", "azure-ai-search", "agents", "skills", "copilot", "github-copilot", "agent-skills"],
+  "author": "Sergio Hierro Cinos",
+  "repository": { "type": "git", "url": "git+https://github.com/Sertxito/boost_RAG-Azure.git" },
+  "bugs": { "url": "https://github.com/Sertxito/boost_RAG-Azure/issues" },
+  "homepage": "https://github.com/Sertxito/boost_RAG-Azure#readme",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "publishConfig": { "access": "public" },
+  "bin": { "boost-rag-azure": "scripts/install.mjs" }
+}

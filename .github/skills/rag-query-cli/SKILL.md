@@ -1,3 +1,8 @@
+---
+name: rag-query-cli
+description: 'RAG Query CLI — Búsqueda Interactiva de Documentos'
+---
+
 # RAG Query CLI — Búsqueda Interactiva de Documentos
 
 **Consulta tu sistema RAG interactivamente desde línea de comandos.**

@@ -1,3 +1,8 @@
+---
+name: rag-diagnostics
+description: 'RAG Diagnostics — Salud del Sistema y Monitorización'
+---
+
 # RAG Diagnostics — Salud del Sistema y Monitorización
 
 **Monitoriza, diagnostica y soluciona problemas de tu sistema RAG.**

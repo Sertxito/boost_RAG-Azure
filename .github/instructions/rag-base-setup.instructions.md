@@ -1,3 +1,8 @@
+---
+description: 'Estándares para la configuración de rag-builder: onboarding claro, conciencia de costes, consistencia en observabilidad.'
+applyTo: '**'
+---
+
 **RAG Reference:** [Retrieval-augmented Generation (RAG) in Azure AI Search - Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview?tabs=videos)
 
 
