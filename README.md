@@ -29,6 +29,18 @@ Framework llave en mano para construir sistemas RAG (Retrieval-Augmented Generat
 
 ### Installation
 
+Standalone and self-installable, no MCP required. From the project where you want the RAG agents, skills, prompts and instructions:
+
+```bash
+npx github:Sertxito/boost_RAG-Azure --target .   # or: npx boost-rag-azure once published
+npx github:Sertxito/boost_RAG-Azure --check      # verify
+npx github:Sertxito/boost_RAG-Azure --uninstall  # remove
+```
+
+GitHub Copilot / VS Code detects the installed assets automatically (reload the window). They land in `.github/agents`, `.github/skills` (mirrored in `.agents/skills`), `.github/prompts` and `.github/instructions`, prefixed with `rag-` (names that already start with `rag-` are not doubled). Nothing already existing is overwritten: every ignored file is reported with a `[WARN] ... IGNORED` message (use `--force` to overwrite).
+
+To work on the boost itself:
+
 ```bash
 git clone https://github.com/Sertxito/boost_RAG-Azure.git
 cd boost_RAG-Azure

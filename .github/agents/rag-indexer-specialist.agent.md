@@ -2,7 +2,6 @@
 name: 'RAG: Especialista en Indexación'
 description: 'Indexa el conocimiento del proyecto en Azure AI Search para RAG. Fragmenta documentación, código y configs. Crea índices con búsqueda semántica y vectorial habilitada. Devuelve estadísticas del índice y métricas de calidad de búsqueda.'
 model: 'claude-haiku-4.5'
-tools: true
 skills: ['rag-agent-instrumentation']
 ---
 

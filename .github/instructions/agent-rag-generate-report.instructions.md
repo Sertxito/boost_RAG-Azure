@@ -1,3 +1,8 @@
+---
+description: 'Generar un informe ejecutivo profesional escrito por IA (DOCX) que venda tu implementación RAG a los stakeholders.'
+applyTo: '**/rag-generate-report.agent.md'
+---
+
 **RAG Reference:** [Technical Writing for Executives](https://hbr.org/how-to-guides)
 
 **Propósito:** Generar un informe ejecutivo profesional escrito por IA (DOCX) que venda tu implementación RAG a los stakeholders.

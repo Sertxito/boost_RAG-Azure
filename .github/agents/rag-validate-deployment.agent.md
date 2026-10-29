@@ -2,7 +2,6 @@
 name: 'RAG: Validate Deployment'
 description: 'Valida costes y arquitectura antes de desplegar infraestructura RAG. Previene errores costosos con análisis de costes y recomendaciones de tier.'
 model: 'claude-opus-4.7'
-tools: true
 skills: ['rag-architecture-optimizer', 'rag-cost-analyst', 'rag-validator']
 ---
 

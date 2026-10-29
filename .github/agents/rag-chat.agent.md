@@ -2,7 +2,6 @@
 name: 'RAG: Chat Conversacional'
 description: 'Chat RAG multi-turno conversacional. Mantiene contexto, reformula preguntas, permite seguimiento. Para exploración conversacional de documentos.'
 model: 'claude-opus-4.7'
-tools: true
 skills: ['rag-agent-instrumentation']
 ---
 

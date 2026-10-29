@@ -1,3 +1,8 @@
+---
+description: 'Validar costes y arquitectura ANTES de desplegar. Previene sorpresas de presupuesto.'
+applyTo: '**/rag-validate-deployment.agent.md'
+---
+
 **RAG Reference:** [Retrieval-augmented Generation (RAG) in Azure AI Search - Microsoft Learn](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview?tabs=videos)
 
 
